@@ -1,2 +1,6 @@
 # learn_repo
-Sample Description. Creating to learn basics of GIT
+
+## Basics
+
+* Git commands
+* Git Tools
